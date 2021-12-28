@@ -49,7 +49,7 @@ result = "You win";
 
  resultDis.innerText = result;
 }
-    
+    5464
 
     let pScore = 0;
     let cScore = 0;
